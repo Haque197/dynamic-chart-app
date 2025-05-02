@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/arifhaque/DynamicChartApp/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/arifhaque/DynamicChartApp/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/arifhaque/DynamicChartApp/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.DynamicChartApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.DynamicChartApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.DynamicChartApp.props",
+      "PackagePath": "build\\DynamicChartApp.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.DynamicChartApp.props",
+      "PackagePath": "buildMultiTargeting\\DynamicChartApp.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.DynamicChartApp.props",
+      "PackagePath": "buildTransitive\\DynamicChartApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

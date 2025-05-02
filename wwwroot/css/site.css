@@ -1,0 +1,19 @@
+.card {
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.card-header {
+    background-color: #f8f9fa;
+    font-weight: bold;
+}
+
+#chartCanvas {
+    max-height: 600px;
+}
+
+.field-mapping-row {
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+} 

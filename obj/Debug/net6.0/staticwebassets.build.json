@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "WmD7qtzcLNcXcMDZDNfbutp0R+iclYUYlnhjGgoxYmQ=",
+  "Source": "DynamicChartApp",
+  "BasePath": "_content/DynamicChartApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DynamicChartApp/wwwroot",
+      "Source": "DynamicChartApp",
+      "ContentRoot": "/Users/arifhaque/DynamicChartApp/wwwroot/",
+      "BasePath": "_content/DynamicChartApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/arifhaque/DynamicChartApp/wwwroot/css/site.css",
+      "SourceId": "DynamicChartApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/arifhaque/DynamicChartApp/wwwroot/",
+      "BasePath": "_content/DynamicChartApp",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jlnmefsusc",
+      "Integrity": "CTV82YBiADPl/JJJfWvAqCAcZ3AFFngiHiu24gzCaJ4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/Users/arifhaque/DynamicChartApp/wwwroot/index.html",
+      "SourceId": "DynamicChartApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/arifhaque/DynamicChartApp/wwwroot/",
+      "BasePath": "_content/DynamicChartApp",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n7hf4u86y2",
+      "Integrity": "48DYkDFbz+UhlQy67UMLKuKnnr/eohWobKgpbh95kJU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/arifhaque/DynamicChartApp/wwwroot/js/site.js",
+      "SourceId": "DynamicChartApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/arifhaque/DynamicChartApp/wwwroot/",
+      "BasePath": "_content/DynamicChartApp",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hqp4u6i76e",
+      "Integrity": "tw47RmXIeaPMCaxmOh18Z0lSIl3vqmUjlnCwwM9Irk4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/site.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/Users/arifhaque/DynamicChartApp/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "309"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CTV82YBiADPl/JJJfWvAqCAcZ3AFFngiHiu24gzCaJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 20:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CTV82YBiADPl/JJJfWvAqCAcZ3AFFngiHiu24gzCaJ4="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.jlnmefsusc.css",
+      "AssetFile": "/Users/arifhaque/DynamicChartApp/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "309"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CTV82YBiADPl/JJJfWvAqCAcZ3AFFngiHiu24gzCaJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 20:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jlnmefsusc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CTV82YBiADPl/JJJfWvAqCAcZ3AFFngiHiu24gzCaJ4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/arifhaque/DynamicChartApp/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"48DYkDFbz+UhlQy67UMLKuKnnr/eohWobKgpbh95kJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 20:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-48DYkDFbz+UhlQy67UMLKuKnnr/eohWobKgpbh95kJU="
+        }
+      ]
+    },
+    {
+      "Route": "index.n7hf4u86y2.html",
+      "AssetFile": "/Users/arifhaque/DynamicChartApp/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"48DYkDFbz+UhlQy67UMLKuKnnr/eohWobKgpbh95kJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 20:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n7hf4u86y2"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-48DYkDFbz+UhlQy67UMLKuKnnr/eohWobKgpbh95kJU="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.hqp4u6i76e.js",
+      "AssetFile": "/Users/arifhaque/DynamicChartApp/wwwroot/js/site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5821"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tw47RmXIeaPMCaxmOh18Z0lSIl3vqmUjlnCwwM9Irk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 12:31:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hqp4u6i76e"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tw47RmXIeaPMCaxmOh18Z0lSIl3vqmUjlnCwwM9Irk4="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "/Users/arifhaque/DynamicChartApp/wwwroot/js/site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5821"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tw47RmXIeaPMCaxmOh18Z0lSIl3vqmUjlnCwwM9Irk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 12:31:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tw47RmXIeaPMCaxmOh18Z0lSIl3vqmUjlnCwwM9Irk4="
+        }
+      ]
+    }
+  ]
+}
